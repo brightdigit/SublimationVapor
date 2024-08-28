@@ -40,8 +40,8 @@ let package = Package(
   products: [
     .library(name: "SublimationVapor", targets: ["SublimationVapor"])
   ],
-  dependencies: [
-    .package(url: "https://github.com/brightdigit/Sublimation", branch: "32-swift-service-lifecycle-ci"),
+  dependencies: [    
+    .package(url: "https://github.com/brightdigit/Sublimation", from: "2.0.0-alpha.5"),
     .package(
       url: "https://github.com/vapor/vapor.git",
       from: "4.92.0"
