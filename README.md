@@ -87,7 +87,7 @@ app.lifecycle.use(sublimation)
 
 ## Documentation
 
-To learn more, check out the full [documentation](https://swiftpackageindex.com/brightdigit/SublimatioVapor/documentation).
+To learn more, check out the full [documentation](https://swiftpackageindex.com/brightdigit/SublimationVapor/documentation).
 
 # License 
 
